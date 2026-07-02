@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Top 10 VS Code extensions for web developers in 2023
-categories: vscode, extensions
+title: Top 10 Vs Code Extensions For Web Developers In 2023
+categories: [vscode, extensions]
 permalink: top-vs-code-extensions-for-web-developers
 ---
 

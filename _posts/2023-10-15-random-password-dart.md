@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Create Random Password Generator Dart
-categories: dart
+categories: [dart]
 permalink: random-password-generator-using-dart
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Typing Effect using CSS
-categories: css, animation
+title: Typing Effect Using Css
+categories: [css, animation]
 permalink: typing-effect-using-css
 ---
 

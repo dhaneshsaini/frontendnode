@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Ruby Project Ideas for Beginner to Advanced 2023
-categories: ruby, projects
+title: Ruby Project Ideas For Beginner To Advanced 2023
+categories: [ruby, projects]
 permalink: ruby-project-ideas
 ---
 

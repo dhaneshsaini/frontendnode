@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Skeleton loading effect using HTML and CSS
-categories: css, animation, loading
+title: Skeleton Loading Effect Using Html And Css
+categories: [css, animation, loading]
 permalink: skeleton-effect-using-css
 ---
 

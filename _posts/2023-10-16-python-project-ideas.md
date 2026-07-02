@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 35+ Python Project ideas for Beginner to Advanced 2023
-categories: python, projects
+title: 35+ Python Project Ideas For Beginner To Advanced 2023
+categories: [python, projects]
 permalink: python-project-ideas
 ---
 

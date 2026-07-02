@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Random Color Code (HEX, HSL, RGB) Generator using Javascript
-categories: javascript, HSL, RGB, HEX
+title: Random Color Code (hex, Hsl, Rgb) Generator Using Javascript
+categories: [javascript, HSL, RGB, HEX]
 permalink: random-color-generator-using-javascript
 ---
 

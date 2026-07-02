@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Top 10 Frontend Framework 2023
-categories: frontend, framework
+categories: [frontend, framework]
 permalink: top-frontend-frameworks
 ---
 

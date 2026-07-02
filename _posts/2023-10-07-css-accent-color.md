@@ -1,7 +1,7 @@
 ---
 layout: post
-title: CSS Accent Color Property
-categories: css
+title: Css Accent Color Property
+categories: [css]
 permalink: css-accent-color-property
 ---
 

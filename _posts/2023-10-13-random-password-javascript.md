@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Build random password generator using javascript
-categories: javascript, tool
+title: Build Random Password Generator Using Javascript
+categories: [javascript, tool]
 permalink: random-password-generator-using-javascript
 ---
 

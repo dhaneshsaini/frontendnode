@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Use Google Sheet Data to JSON API Endpoint 2023
-categories: google-sheet, apps-script, json
+title: Use Google Sheet Data To Json Api Endpoint 2023
+categories: [google-sheet, apps-script, json]
 permalink: google-sheet-to-json-api-endpoint
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: CSS Mouse Out Transition Effect
-categories: css, transition
+title: Css Mouse Out Transition Effect
+categories: [css, transition]
 permalink: css-mouse-out-transition-effect
 ---
 

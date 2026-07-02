@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 10 best hosting for static site 2023
-categories: hosting
+title: 10 Best Hosting For Static Site 2023
+categories: [hosting]
 permalink: best-static-app-hosting
 ---
 

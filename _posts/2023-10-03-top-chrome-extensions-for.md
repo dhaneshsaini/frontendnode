@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Top 10 chrome extensions for web developers in 2023
-categories: web, extensions
+title: Top 10 Chrome Extensions For Web Developers In 2023
+categories: [web, extensions]
 permalink: top-chrome-extensions-for-web-developers
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 100+ Javascript project ideas for Beginner to Advanced 2023
-categories: javascript
+title: 100+ Javascript Project Ideas For Beginner To Advanced 2023
+categories: [javascript]
 permalink: javascript-project-ideas
 ---
 
